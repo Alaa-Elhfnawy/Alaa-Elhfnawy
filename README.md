@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello Everyone👋 I'm A'laa Abdelraheem</h1>
-<h7> I'm a Software Engineer and Problem Solver</h7>
+<h5 align="center"> I'm a Software Engineer and Problem Solver</h5>
 <br/>
 <br/>
 
