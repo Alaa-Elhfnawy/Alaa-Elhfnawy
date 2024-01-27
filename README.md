@@ -14,9 +14,6 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML5"/>
   </a>
@@ -44,10 +41,15 @@
   <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
     <img src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff" alt="Windows"/>
   </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=ffffff" alt="React.js"/>
+  </a>
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000" alt="Notion"/>
   </a>
 </p>
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
+
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="100%" height="95px">
 
 
