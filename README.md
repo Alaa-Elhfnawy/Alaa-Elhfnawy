@@ -29,6 +29,9 @@
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff" alt="Sass"/>
   </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=ffffff" alt="React.js"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" alt="Git"/>
   </a>
@@ -40,9 +43,6 @@
   </a>
   <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
     <img src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff" alt="Windows"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=ffffff" alt="React.js"/>
   </a>
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000" alt="Notion"/>
