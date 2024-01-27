@@ -50,15 +50,10 @@
 </p>
 
  ### 🔗Contact Me
-[![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/DevAmr74/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](mailto:AmrSaaayed74@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](alaa.abdelraheem.elhfnawy@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/amr-elsayed74?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)
-[![CodePen.io](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/amrsayed74)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amr.sayed74/)
-[![Instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Amr_ElSsyed)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01005074554)
-
+)]([https://www.linkedin.com/in/amr-elsayed74?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc](https://www.linkedin.com/in/alaa-elhfnawy-a9256b223/
+))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrSayed74&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
